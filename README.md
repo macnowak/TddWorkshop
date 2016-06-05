@@ -16,3 +16,14 @@
 http://osherove.com/tdd-kata-1/
 
 https://sites.google.com/site/tddproblems/all-problems-1
+
+
+##ProducerProfile
+
+* each change of field value should create change history record
+
+
+###Hint
+* create enableEAgent(), disableEAgent(), should record if enabled or disabled,
+* create void method checkProfile
+* test other fields
